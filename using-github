@@ -1,0 +1,6 @@
+Tracking changes seems to be an important idea with using Github. When you create a new repository (repo), 
+all the files are inside of the "master" branch. But, if you want to make a change to a file, you create a new branch.
+After creating the new branch, you can experiment and make changes ("commits") and discuss the changes. Once everything
+has been tested and agreed on, you can initiate a "pull" request to pull the new changes into the master branch. At this
+points it's important to make comments about what changes you made so that others later on can understand what happened
+and why. Once the pull request is complete, the branch becomes merged with the master to become the new master branch. 
